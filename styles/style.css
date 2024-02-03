@@ -6,8 +6,8 @@
   box-sizing: border-box;
 }
 
-.container {
-   display: grid;
-   grid-template-columns: 3fr 5fr;
-   height: 100vh;
+@font-face {
+   font-family: "Norse";
+   src: url("../fonts/Norse-Bold.otf");
 }
+
